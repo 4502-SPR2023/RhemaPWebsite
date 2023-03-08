@@ -1,0 +1,75 @@
+
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Golos+Text&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@500&display=swap');
+
+
+h1{
+    color: #fff7e8
+}
+
+h2{
+    color: #fff7e8
+}
+body {
+    text-align: center;
+    background-color: tan;
+    font-family: 'Golos Text', sans-serif;
+    color: #635e56;
+}
+
+img {
+    border-style: none;
+}
+
+ul {  
+    list-style-type: none;
+    font-weight: bold;
+    position:relative; right:20px
+}
+
+header {
+    background-color: ghostwhite;
+    text-align: center;
+    color: tan;
+    font-family: 'Playfair Display SC', serif;
+    padding: 40px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+footer {
+  background-color: ghostwhite;
+  text-align: center;
+  padding: 25px;
+  color: tan;
+  font-size:20px;
+  font-family: 'Anek Malayalam', sans-serif;
+}
+
+/* removing default browser styles */
+a:link {
+  color: #635e56;
+  text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none;
+    color:#635e56;
+}
+
+a:focus {
+  border-bottom: 1px solid;
+  text-decoration:none;
+}
+
+a:hover {
+  background: #fff7e8;
+  width:20px;
+}
+
+a:active {
+  background: #826c44;
+  color: #635e56;
+}
