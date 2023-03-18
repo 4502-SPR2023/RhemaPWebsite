@@ -145,3 +145,13 @@ p{
   text-align:left;
   }
 }
+
+/* color of links changes */
+a{
+  color:white;
+  text-decoration: none;
+}
+
+a:hover {
+  background:#8C8C8C;
+}
