@@ -116,6 +116,19 @@ p{
   }
 }
 
+.text-holder{
+  width: 100%;
+  padding: 0;
+  margin: 15px;
+  text-align:left;
+  position: relative;
+  left: 280px;
+}
+
+.location-holder,.media-holder {
+  width: 650px;
+}
+
 /* 800x wide screens */ 
 @media (min-width: 800px) {
   body {
