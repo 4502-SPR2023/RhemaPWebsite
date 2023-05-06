@@ -15,7 +15,7 @@ h1 {
 h2{
   position: relative;
   text-align: center;
-  left:-30px;
+  right: 300px;
   top: 15px;
   font-family: 'Golos Text', sans-serif;
 }
