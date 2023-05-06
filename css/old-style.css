@@ -14,7 +14,6 @@ h1 {
 
 h2{
   position: relative;
-  right: 245px;
   top: 15px;
   font-family: 'Golos Text', sans-serif;
 }
@@ -111,7 +110,7 @@ footer {
   }
   img {
     max-width: 100%;
-    width: 650px;
+    width: 200x;
   }
   h2{
     position: relative;
