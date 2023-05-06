@@ -37,7 +37,7 @@ p{
 }
 
 img {
-  width: 200px;
+  width: 50px;
 }
 
 .wrapper{
@@ -101,9 +101,7 @@ footer {
   left: 280px;
 }
 
-.location-holder,.media-holder {
-  width: 650px;
-}
+
 
 /* 555x wide screens */ 
 @media (min-width: 555px) {  
@@ -111,8 +109,8 @@ footer {
     background-color: black;
   }
   img {
-    max-width: 100%;
-    width: 200x;
+    max-width: 50%;
+    width: 50x;
   }
   h2{
     position: relative;
@@ -154,13 +152,10 @@ p{
   margin-inline-start: 0;
   margin-inline-end: 0;
   margin: 3rem auto;
-  width: 100%;
+  width: 50%;
   max-width: 700px;
 }
 
-.gallery-image img {
-  width: 100%;
-}
 
 .button_holder {
   display: flex;
