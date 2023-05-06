@@ -34,7 +34,7 @@ p{
 }
 
 img {
-  width: 200px;
+  width: 20%;
 }
 
 .wrapper{
@@ -106,8 +106,8 @@ footer {
     background-color: black;
   }
   img {
-    max-width: 100%;
-    width: 200x;
+    max-width: 50%;
+    width: 20%;
   }
   h2{
     position: relative;
