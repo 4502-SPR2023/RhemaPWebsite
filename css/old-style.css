@@ -15,7 +15,7 @@ h1 {
 h2{
   position: relative;
   text-align: center;
-  right: 300px;
+  right: 400px;
   top: 15px;
   font-family: 'Golos Text', sans-serif;
 }
@@ -37,7 +37,7 @@ p{
 }
 
 img {
-  width: 50px;
+  width: 100px;
 }
 
 .wrapper{
@@ -109,8 +109,8 @@ footer {
     background-color: black;
   }
   img {
-    max-width: 50%;
-    width: 50x;
+    max-width: 100%;
+    width: 100x;
   }
   h2{
     position: relative;
@@ -145,16 +145,6 @@ p{
   }
 }
 
-/* photo gallery */
-.gallery-image {
-  margin-block-start: 0;
-  margin-block-end: 0;
-  margin-inline-start: 0;
-  margin-inline-end: 0;
-  margin: 3rem auto;
-  width: 50%;
-  max-width: 700px;
-}
 
 
 .button_holder {
